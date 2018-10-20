@@ -3,14 +3,15 @@ layout: default
 ---
 <article class="post container">
   <div class="post-meta">
-    <span class="post-meta-span date">{{ page.date | date:"%Y %B %d" }}</span>
+      <span class="post-meta-span date">{{ page.date | date:"%Y-%m-%d" }}</span>
     {% if page.tags.size > 0 %}
-    <span class="post-meta-span tag">{{ page.tags | join: ', ' }}</span>
+      <span class="post-meta-span tag"> {{ page.tags | join: ', ' }}</span>
     {% endif %}
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
   {{ content }}
+    <span class="post-meta-span date"> 更新时间 {{ page.last_modified_at | date:"%Y-%m-%d" }}</span>
 </article>
 
 <div class="post-share">

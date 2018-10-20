@@ -3,6 +3,7 @@ layout
 :
 null
 ---
+
 $(function () {
   var toc = $('.toc-link'),
   sidebar = $('#sidebar'),

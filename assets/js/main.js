@@ -1,7 +1,5 @@
 ---
-layout
-:
-null
+layout:null
 ---
 
 $(function () {

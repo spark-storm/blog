@@ -1,6 +1,7 @@
 ---
 title: Why Blog
 layout: post
+date: 2018-10-20 20:18:00
 ---
 
 ## 关于我

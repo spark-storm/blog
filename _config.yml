@@ -30,8 +30,8 @@ disqus:
 
 # google analytics config
 ga:
-  id:UA-128259713-1
-  url:sparkstrom.decken.me
+  id: UA-128259713-1
+  url: sparkstrom.decken.me
 
 # Build settings
 permalink: /:year/:month/:day/:title.html

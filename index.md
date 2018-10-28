@@ -7,6 +7,15 @@ layout: post
 
 专注大数据开发, 分享一些实践.
 
+## 友情链接
+* [彩色蚂蚁](https://blog.csdn.net/colorant)
+* [DigAndBuried](https://github.com/ColZer/DigAndBuried)
+* [有态度的HBase/Spark/BigData](http://hbasefly.com)
+* [连城](https://www.zhihu.com/people/liancheng/answers)
+* [过往记忆](https://www.iteblog.com/)
+* [ApacheCN](http://www.apachecn.org/)
+
+
 
 ## 博客平台
 

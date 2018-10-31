@@ -1,5 +1,5 @@
 ---
-title:  "目前大数据背景介绍"
+title:  "大数据架构背景介绍"
 categories: [架构]
 tags: [架构 Spark Yarn]
 date: 2018-10-28 12:18:32

@@ -1,7 +1,7 @@
 ---
 title:  "Spark集群管理器"
-categories: [spark]
-tags: [spark, yarn, mesos]
+categories: [Spark]
+tags: [Spark, Yarn, Mesos]
 date: 2018-11-10 08:29:00
 layout: post
 published: true

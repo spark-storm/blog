@@ -1,12 +1,12 @@
 ---
-title: Why Blog
+title: Spark最佳实践 
 layout: post
 date: 2018-10-20 20:18:00
 ---
 
-## 关于我
+## 关于
 
-专注大数据开发, 分享一些实践.
+专注大数据开发, 分享Spark以及周边大数据相关的实践, 努力积累成为最佳实践。
 
 ## 友情链接
 * [彩色蚂蚁](https://blog.csdn.net/colorant)
